@@ -4,10 +4,97 @@
         "data": {
             "status": 0,
             "msg": null,
-            "total": 69,
+            "total": 70,
             "pageNum": 1,
             "pageSize": 100,
             "dataList": [
+                {
+                    "id": "6a6c4686acb28909e7ad89898952f9897b75cb87",
+                    "title": "四川省公路交通应急装备物资储备中心2024年度中心<em>网</em><em>络</em><em>安全</em>及电子办公设备维护服务采购(二次)公告",
+                    "projectNo": null,
+                    "content": "各潜在供应商：四川省公路交通应急装备物资储备中心现开展“2024年度中心网络安全及电子办公设备维护服务采购项目（二次）”采购工作，特邀请符合本次采购要求的供应商参加本项目的竞争性磋商。一、项目名称2024年度网络安全及电子办公设备维护服务采购项目（二次）二、项目情况（一）服务地点：成都市青羊区人民中路二段29号（二）设备基本情况：见物资储备中心网络设备及电子办公设备清单（见磋商文件）（三）服务内容：1.提供中心办公区的外部局域网、各类专业网络的及其网络安全环境等的专业运维服务。2.提供中心网络系统、台式计算机、笔记",
+                    "contentHtml": null,
+                    "clearContentHtml": null,
+                    "summary": null,
+                    "formattedContent": null,
+                    "publishDate": "2024-03-26",
+                    "publishTime": "2024-03-26 00:00:00",
+                    "sysCreateTime": "2024-04-16 00:03:00",
+                    "noticeType": "招标｜招标公告",
+                    "noticeTypeCode": "1091:3",
+                    "tenderPrincipalTypes": [
+                        "事业单位"
+                    ],
+                    "tenderPrincipalTypeCodes": [
+                        "1107:2"
+                    ],
+                    "productLabels": [
+                        "网络安全及电子办公设备维护服务",
+                        "网络设备及电子办公设备",
+                        "网络设备",
+                        "AP交换机",
+                        "互联网交换机"
+                    ],
+                    "tenderItemCategory": "1110:2",
+                    "tenderItemCategoryName": "货物",
+                    "tenderItemIndustry": "1113:4",
+                    "tenderItemIndustryName": "服务采购",
+                    "address": "四川省",
+                    "addressCode": "510000",
+                    "province": "四川省",
+                    "provinceCode": "510000",
+                    "city": "成都市",
+                    "cityCode": "510100",
+                    "district": "青羊区",
+                    "districtCode": "510105",
+                    "tokens": null,
+                    "tenderPrincipal": [
+                        {
+                            "name": "四川省公路交通应急装备物资储备中心",
+                            "url": null,
+                            "industryCode1": null,
+                            "province": null,
+                            "bid": "MDk2Mjg0MDY3MTk4NTAx"
+                        }
+                    ],
+                    "winnerPrincipal": null,
+                    "agencyPrincipal": null,
+                    "otherPrincipal": null,
+                    "relatedPrincipal": null,
+                    "candidatePrincipal": null,
+                    "contactInfo": null,
+                    "unlockStatus": null,
+                    "unlockTime": null,
+                    "needTip": null,
+                    "favoriteFlag": null,
+                    "lastVisitTime": null,
+                    "rightsInfo": null,
+                    "desensitized": null,
+                    "budget": 74900.0,
+                    "readableBudget": "7.49万元",
+                    "winnerAmount": null,
+                    "readableWinnerAmount": null,
+                    "bidingAcquireTime": null,
+                    "bidingEndTime": null,
+                    "tenderEndTime": "2024-04-08",
+                    "openBidingTime": "2024-04-08",
+                    "contentUrl": null,
+                    "sourceUrl": null,
+                    "recommendData": null,
+                    "recommendTags": null,
+                    "replacedList": null,
+                    "enterpriseType": null,
+                    "tags": null,
+                    "displayTags": [
+                        "预算7.49万元"
+                    ],
+                    "discountInfo": null,
+                    "contentHtmlForPc": null,
+                    "contentHtmlForWise": null,
+                    "matchType": "term",
+                    "lastProjectInfo": null,
+                    "recommendChannel": null
+                },
                 {
                     "id": "840538e50eda0a6f1815c035eef5a6ea3ad7d764",
                     "title": "区第二人民医院2024年度信息化基础设施及<em>网</em><em>络</em><em>安全</em>运维市场调研公时间:2024-03-2114:51&nbsp;&nbsp;&nbsp;&nbsp;浏览量:次",
@@ -134,7 +221,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjQ3NDg3ODc3NTcyODk1"
+                            "bid": "NTI1NDg3ODc3NTcyODk1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -144,7 +231,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODI1NjE0OTExNjI1MzA3"
+                            "bid": "OTkyNjE0OTExNjI1MzA3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -227,7 +314,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDY0MjE3OTY3OTY0NDU0"
+                            "bid": "OTk5MjE3OTY3OTY0NDU0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -237,7 +324,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTgwMjE3OTg4NTI3MDY3"
+                            "bid": "NzIyMjE3OTg4NTI3MDY3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -318,7 +405,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDczOTAzMzc5NDg4ODUx"
+                            "bid": "NDg1OTAzMzc5NDg4ODUx"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -399,7 +486,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTUzOTEyNjY4MzkyMTE4"
+                            "bid": "MzQwOTEyNjY4MzkyMTE4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -480,7 +567,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDQ1MjE3OTY3OTY0NDU0"
+                            "bid": "MTQ4MjE3OTY3OTY0NDU0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -490,7 +577,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDMwMjE3OTg4NTI3MDY3"
+                            "bid": "MDA3MjE3OTg4NTI3MDY3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -573,7 +660,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDczODU4NjIzNzExMjc3"
+                            "bid": "NjY0ODU4NjIzNzExMjc3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -656,7 +743,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTQ4MTE1ODQ4MTIzMTg3"
+                            "bid": "MjU4MTE1ODQ4MTIzMTg3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -739,7 +826,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTM4MzMzMDkzNzEyMzQ3"
+                            "bid": "MTYwMzMzMDkzNzEyMzQ3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -749,7 +836,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Njc2MzMzMDkzNzEyMzQ3"
+                            "bid": "MTAxMzMzMDkzNzEyMzQ3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -831,7 +918,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODYxNTMzOTI2MDk2MjU2"
+                            "bid": "NjA5NTMzOTI2MDk2MjU2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -913,7 +1000,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTgyMjM3MzYzMzUzODI1"
+                            "bid": "MjQ3MjM3MzYzMzUzODI1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1000,7 +1087,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTg3MjUxODk0ODI4MTM3"
+                            "bid": "MzY2MjUxODk0ODI4MTM3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -1087,7 +1174,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDU4MjkyODYwODU5MjU1"
+                            "bid": "ODg0MjkyODYwODU5MjU1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -1168,7 +1255,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NjIyODU2OTMwNzcyMjYw"
+                            "bid": "NjI2ODU2OTMwNzcyMjYw"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1178,7 +1265,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTgyMjkyODYwODU5MjU1"
+                            "bid": "MTA3MjkyODYwODU5MjU1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -1259,7 +1346,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTcwMjgxMTY4NDQwMTUx"
+                            "bid": "MDAwMjgxMTY4NDQwMTUx"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1348,7 +1435,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODA2MTA2MjM5NDIyNjk4"
+                            "bid": "MDAzMTA2MjM5NDIyNjk4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1430,7 +1517,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDE3NTMzOTI2MDk2MjU2"
+                            "bid": "ODg4NTMzOTI2MDk2MjU2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1511,7 +1598,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDE2NTQ4MTI2ODQ4OTE0"
+                            "bid": "NDkzNTQ4MTI2ODQ4OTE0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1592,7 +1679,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODg2MzE2NDAyMTUxMzUy"
+                            "bid": "ODkyMzE2NDAyMTUxMzUy"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1675,7 +1762,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDA1MjE4MDAyNjE3OTI2"
+                            "bid": "NTc1MjE4MDAyNjE3OTI2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1685,7 +1772,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzI0MTA0OTIyMjgwMTI1"
+                            "bid": "MTUyMTA0OTIyMjgwMTI1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -1773,7 +1860,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDY2MTA2MjAyNjUxNzYy"
+                            "bid": "MzY3MTA2MjAyNjUxNzYy"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1854,7 +1941,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODM1MzUzMjg2MzgyOTQ1"
+                            "bid": "MzMzMzUzMjg2MzgyOTQ1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -1864,7 +1951,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NjM0MjkzMDMxNDcxNTE3"
+                            "bid": "OTE4MjkzMDMxNDcxNTE3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -1949,7 +2036,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDk0ODU4MzE5MTY0NDMw"
+                            "bid": "Mzc3ODU4MzE5MTY0NDMw"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2033,7 +2120,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTA5MzM0OTQwMzc0ODIy"
+                            "bid": "MTc0MzM0OTQwMzc0ODIy"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2114,7 +2201,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODQ5NzA4NTE2NjAwNjA1"
+                            "bid": "NTI0NzA4NTE2NjAwNjA1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2124,7 +2211,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDYwMzExMzMyODM3MjEx"
+                            "bid": "Njk2MzExMzMyODM3MjEx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2206,7 +2293,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NzQ3NjE1NzEwMzY1Mjk2"
+                            "bid": "NjczNjE1NzEwMzY1Mjk2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2216,7 +2303,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzczMjkyOTgyNDc0MzIy"
+                            "bid": "OTAxMjkyOTgyNDc0MzIy"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2301,7 +2388,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTU3MjkyODYwODU5MjU1"
+                            "bid": "NzE1MjkyODYwODU5MjU1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2386,7 +2473,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDEyODU4MzE5MTY0NDMw"
+                            "bid": "MTA3ODU4MzE5MTY0NDMw"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2468,7 +2555,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Mjk3NTMzOTI2MDk2MjU2"
+                            "bid": "OTgwNTMzOTI2MDk2MjU2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2549,7 +2636,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTYxNTkxMjEwNjMxMDAy"
+                            "bid": "NTM4NTkxMjEwNjMxMDAy"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2559,7 +2646,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Njk0NjEzNDIwMzUyMjQz"
+                            "bid": "NDI0NjEzNDIwMzUyMjQz"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2640,7 +2727,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTYxNjE1NzEwMzY1Mjk2"
+                            "bid": "NDU2NjE1NzEwMzY1Mjk2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2650,7 +2737,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NjQ4MjkyOTgyNDc0MzIy"
+                            "bid": "MzE0MjkyOTgyNDc0MzIy"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2733,7 +2820,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDcxMzUzNzUxMjE3MjY0"
+                            "bid": "NjU2MzUzNzUxMjE3MjY0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2743,7 +2830,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjY2Mjc2NzEwMzU4MjA0"
+                            "bid": "MTM5Mjc2NzEwMzU4MjA0"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2823,7 +2910,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDk0NTMzOTI2MDk2MjU2"
+                            "bid": "NzM2NTMzOTI2MDk2MjU2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2905,7 +2992,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjI4NjA5Mjc4ODcxODg5"
+                            "bid": "OTUzNjA5Mjc4ODcxODg5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -2915,7 +3002,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzI0MTA4MzkxMDIzMjY5"
+                            "bid": "NzE5MTA4MzkxMDIzMjY5"
                         }
                     ],
                     "otherPrincipal": null,
@@ -2994,7 +3081,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjI4NjA5Mjc4ODcxODg5"
+                            "bid": "MTA0NjA5Mjc4ODcxODg5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3004,7 +3091,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDAwMTA4MzkxMDIzMjY5"
+                            "bid": "NTc0MTA4MzkxMDIzMjY5"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3091,7 +3178,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTE5MjE3OTExMzA3MjYx"
+                            "bid": "OTc5MjE3OTExMzA3MjYx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3173,7 +3260,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTA2NjA3NjI0MjIzMTgx"
+                            "bid": "MzkwNjA3NjI0MjIzMTgx"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3254,7 +3341,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NzE0NDQ2ODExODkxMjA3"
+                            "bid": "OTI5NDQ2ODExODkxMjA3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3264,7 +3351,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDQxMjg2ODAzMDQyNjMx"
+                            "bid": "MDI3Mjg2ODAzMDQyNjMx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3345,7 +3432,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Njc5NDQ2ODExODkxMjA3"
+                            "bid": "OTUzNDQ2ODExODkxMjA3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3355,7 +3442,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTc3Mjg2ODAzMDQyNjMx"
+                            "bid": "OTgyMjg2ODAzMDQyNjMx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3436,7 +3523,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTI0NTY2MTE0MTIwODY4"
+                            "bid": "NTY2NTY2MTE0MTIwODY4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3446,7 +3533,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjM5NjA1NjI3MzUwMjk1"
+                            "bid": "Njc0NjA1NjI3MzUwMjk1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3526,7 +3613,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjcwNDQ5MjUzNDQxMTky"
+                            "bid": "OTEyNDQ5MjUzNDQxMTky"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3536,7 +3623,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTA5Mjg2OTIzMjIzNDI4"
+                            "bid": "MzQ4Mjg2OTIzMjIzNDI4"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3615,7 +3702,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjY5NDQ5MjUzNDQxMTky"
+                            "bid": "NjcyNDQ5MjUzNDQxMTky"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3625,7 +3712,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjY2Mjg2OTIzMjIzNDI4"
+                            "bid": "OTU4Mjg2OTIzMjIzNDI4"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3706,7 +3793,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODgyODU2ODk3NTYzMjQ1"
+                            "bid": "NzcxODU2ODk3NTYzMjQ1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3787,7 +3874,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTI0NDk4NjE4OTM0NDMz"
+                            "bid": "NzQxNDk4NjE4OTM0NDMz"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3797,7 +3884,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NjkxNjA1NjI3MzUwMjk1"
+                            "bid": "NjI5NjA1NjI3MzUwMjk1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3878,7 +3965,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Mjc2NzA4NTE2NjAwNjA1"
+                            "bid": "NzIyNzA4NTE2NjAwNjA1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3888,7 +3975,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODMyMzExMzMyODM3MjEx"
+                            "bid": "OTk4MzExMzMyODM3MjEx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -3969,7 +4056,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTQxNjA5Mjc4ODcxODg5"
+                            "bid": "MDU5NjA5Mjc4ODcxODg5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -3979,7 +4066,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzE2MTA4MzkxMDIzMjY5"
+                            "bid": "Njg4MTA4MzkxMDIzMjY5"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4062,7 +4149,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTk0MTA2MjMwNDEzNTg0"
+                            "bid": "NTkyMTA2MjMwNDEzNTg0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4072,7 +4159,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NjU4NDUyODE0NTA5NDA0"
+                            "bid": "NDc3NDUyODE0NTA5NDA0"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4153,7 +4240,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzQxOTg5ODYzNzk1NTE4"
+                            "bid": "NTUzOTg5ODYzNzk1NTE4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4163,7 +4250,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NzMwMTM3OTU3NjcxNjIx"
+                            "bid": "MjExMTM3OTU3NjcxNjIx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4244,7 +4331,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NzAyMjE3OTY3OTY0NDU0"
+                            "bid": "NTMwMjE3OTY3OTY0NDU0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4254,7 +4341,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Njk1MjE3OTg4NTI3MDY3"
+                            "bid": "ODUyMjE3OTg4NTI3MDY3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4339,7 +4426,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDQ5MTA2MjQzNDAwOTE1"
+                            "bid": "ODQ5MTA2MjQzNDAwOTE1"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4420,7 +4507,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTAxOTg5ODYzNzk1NTE4"
+                            "bid": "OTM2OTg5ODYzNzk1NTE4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4430,7 +4517,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDYxMTM3OTU3NjcxNjIx"
+                            "bid": "OTEwMTM3OTU3NjcxNjIx"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4512,7 +4599,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDM1MjE3OTY3OTY0NDU0"
+                            "bid": "MTk3MjE3OTY3OTY0NDU0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4522,7 +4609,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Nzg3MjE3OTg4NTI3MDY3"
+                            "bid": "MDUyMjE3OTg4NTI3MDY3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4603,7 +4690,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjQzOTk2MzYwMTQyNDE5"
+                            "bid": "NTU2OTk2MzYwMTQyNDE5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4684,7 +4771,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODU4MzM3NDgzOTMyNzc4"
+                            "bid": "MzkxMzM3NDgzOTMyNzc4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4694,7 +4781,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjQ0NjEzMzI4NzY4Mjkw"
+                            "bid": "NzY2NjEzMzI4NzY4Mjkw"
                         }
                     ],
                     "otherPrincipal": null,
@@ -4773,7 +4860,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjQxNTY2MzY4OTIxODY4"
+                            "bid": "NTY3NTY2MzY4OTIxODY4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4856,7 +4943,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzMwNTY2MzY4OTIxODY4"
+                            "bid": "NzA3NTY2MzY4OTIxODY4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4939,7 +5026,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTE5NTY2MTE0MTIwODY4"
+                            "bid": "NDE5NTY2MTE0MTIwODY4"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -4949,7 +5036,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjE1NjA1NjI3MzUwMjk1"
+                            "bid": "ODU5NjA1NjI3MzUwMjk1"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5030,7 +5117,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Mzg0MzYwNjE4NzUwNTU2"
+                            "bid": "MjE0MzYwNjE4NzUwNTU2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5040,7 +5127,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTI2ODkxMTU3NDM1NzM0"
+                            "bid": "Nzc2ODkxMTU3NDM1NzM0"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5119,7 +5206,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjA3NDM2OTI5MDk5NDA5"
+                            "bid": "MTcyNDM2OTI5MDk5NDA5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5202,7 +5289,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTE3OTg5MjkyMDk0ODQ2"
+                            "bid": "MTk3OTg5MjkyMDk0ODQ2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5283,7 +5370,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "OTc1MzU0ODE1MzA4MDk2"
+                            "bid": "MjYyMzU0ODE1MzA4MDk2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5293,7 +5380,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDY3NTU5NDcxNTkyNTk4"
+                            "bid": "MDQyNTU5NDcxNTkyNTk4"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5375,7 +5462,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjU2MzQ0NDQ5ODk0MzU2"
+                            "bid": "MTA3MzQ0NDQ5ODk0MzU2"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5385,7 +5472,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NjQ0MTE2ODM5MDYwNTU4"
+                            "bid": "MTEzMTE2ODM5MDYwNTU4"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5464,7 +5551,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODYwMjE3OTI4MjcyMzI0"
+                            "bid": "NTE2MjE3OTI4MjcyMzI0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5545,7 +5632,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDYxMjgxMTcxMTYzNjA5"
+                            "bid": "MzE4MjgxMTcxMTYzNjA5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5555,7 +5642,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NDk4OTU0OTcxNjgyMTk0"
+                            "bid": "MDY1OTU0OTcxNjgyMTk0"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5637,7 +5724,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "Nzk4MjY3NjYxMzg0ODA0"
+                            "bid": "NjY4MjY3NjYxMzg0ODA0"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5647,7 +5734,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MDI4MjY0ODQ0NjU2NjM0"
+                            "bid": "OTkxMjY0ODQ0NjU2NjM0"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5728,7 +5815,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NzIyNDM2OTI5MDk5NDA5"
+                            "bid": "ODc4NDM2OTI5MDk5NDA5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5811,7 +5898,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MzU1NjM5ODMwOTE5MjY3"
+                            "bid": "NTY4NjM5ODMwOTE5MjY3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5821,7 +5908,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MTQ2MTA5NTg0ODgwMjY3"
+                            "bid": "MDg5MTA5NTg0ODgwMjY3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5902,7 +5989,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "ODAxNjM5ODMwOTE5MjY3"
+                            "bid": "MzMzNjM5ODMwOTE5MjY3"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -5912,7 +5999,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "MjYxMTA5NTg0ODgwMjY3"
+                            "bid": "NjQ0MTA5NTg0ODgwMjY3"
                         }
                     ],
                     "otherPrincipal": null,
@@ -5997,7 +6084,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NTEyOTM4NTgxMjgyOTA5"
+                            "bid": "MTQzOTM4NTgxMjgyOTA5"
                         }
                     ],
                     "winnerPrincipal": null,
@@ -6007,7 +6094,7 @@
                             "url": null,
                             "industryCode1": null,
                             "province": null,
-                            "bid": "NzUzNTE5NTIxNzA2ODY5"
+                            "bid": "MDUwNTE5NTIxNzA2ODY5"
                         }
                     ],
                     "otherPrincipal": null,
